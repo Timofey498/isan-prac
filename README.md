@@ -20,5 +20,5 @@ The optical setup included coupling the radiation into the fiber through a micro
 - The **broadest and most uniform spectra** were obtained for pump wavelengths near **800 nm**.  
 - For **λ > 900 nm**, a pronounced narrow spectral band appeared, whose position depended on input power.  
 
-## Repository Structure
+
 
